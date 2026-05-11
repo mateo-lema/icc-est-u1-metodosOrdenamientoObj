@@ -1,18 +1,15 @@
-## Getting Started
+## Estudiante
+-Mateo lema
+## Método ordenamiento con insersión
+Fecha=5/11/2026
+## Descripción
+El método de ordenamiento por inserción ordena los elementos comparando cada dato con los anteriores e insertándolo en la posición correcta.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Método ordenamiento con Seleccion
+fecha=Fecha=5/11/2026
+## Descripción
+El método de ordenamiento por selección ordena los elementos buscando el menor o mayor valor del arreglo y colocándolo en su posición correcta.
 
-## Folder Structure
+Funciona seleccionando un elemento en cada pasada y cambiándolo de lugar hasta que todo quede ordenado.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
